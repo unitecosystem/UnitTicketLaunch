@@ -1,8 +1,14 @@
-{
+  {
     "name": "UNIT TICKET LAUNCH",
     "symbol": "TICKETLAUNCH",
-    "uri": "https://raw.githubusercontent.com/unitecosystem/UnitTicketLaunch/main/ticketlaunch.json",
+    "description": "TICKETLAUNCH token for the TICKETLAUNCH ecosystem",
+    "image": "https://raw.githubusercontent.com/unitecosystem/UnitTicketLaunch/refs/heads/main/TicketLaunch512.png",
+    "creator": {
+      "name": "Unit Ecosystem",
+      "site": "https://unitecosystem.com"
+    },
     "seller_fee_basis_points": 0,
     "creators": null
   }
+  
   
