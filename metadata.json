@@ -1,16 +1,12 @@
 {
-  "name": "Unit Ticket Launch",
-  "symbol": "$TICKETLAUNCH",
-  "description": "Official token for Unit Ticket Launch events and utility within the UNIT ecosystem.",
+  "name": "UNIT TICKET LAUNCH",
+  "symbol": "TIXLAUNCH",
+  "description": "TICKET LAUNCH",
   "image": "https://raw.githubusercontent.com/unitecosystem/UnitTicketLaunch/main/TicketLaunch512.png",
-  "properties": {
-    "category": "image",
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/unitecosystem/UnitTicketLaunch/main/TicketLaunch512.png",
-        "type": "image/png"
-      }
-    ]
-  }
+  "creator": {
+    "name": "UNIT TICKETT LAUNCH",
+    "site": "https://ticket.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
 }
-
