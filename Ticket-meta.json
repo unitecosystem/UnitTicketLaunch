@@ -1,10 +1,10 @@
 {
   "name": "UNIT TICKET LAUNCH",
-  "symbol": "TIXLAUNCH",
-  "description": "TICKET LAUNCH",
+  "symbol": "TICKETLCH",
+  "description": "Access tokenized events through Unit Network. TICKET gives you access to events, performances, and experiences — with proof of attendance and ownership on-chain.",
   "image": "https://raw.githubusercontent.com/unitecosystem/UnitTicketLaunch/main/TicketLaunch512.png",
   "creator": {
-    "name": "UNIT TICKETT LAUNCH",
+    "name": "UNIT TICKET LAUNCH",
     "site": "https://ticket.unit.network/coin"
   },
   "seller_fee_basis_points": 0,
